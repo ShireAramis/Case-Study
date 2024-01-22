@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensory Impressions Website</title>
+    <style>
+        body {
+            background-color: #E6E6FA; /* Soft Lavender */
+            color: #808080; /* Warm Gray */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #191970; /* Midnight Blue */
+            color: #FFF;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: #556B2F; /* Earthy Green */
+            padding: 0.5em;
+            text-align: center;
+        }
+
+        p {
+            margin: 1em 0;
+        }
+
+        .accent-text {
+            color: #FFA500; /* Citrus Orange */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sensory Impressions</h1>
+    </header>
+
+    <nav>
+        <p>Home</p>
+        <p>About</p>
+        <p>Contact</p>
+    </nav>
+
+    <section>
+        <h2>Welcome to Our World</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac urna ac urna bibendum porttitor vel id lorem.</p>
+        <p class="accent-text">Experience the vibrant hues of nature and the calming essence of lavender.</p>
+    </section>
+</body>
+</html>
